@@ -1,0 +1,9 @@
+.container {
+    display: flex;
+    justify-content: center;
+    padding: 39px;
+}
+
+.align {
+    margin-right: 16px;
+}
